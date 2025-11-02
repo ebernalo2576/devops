@@ -5,7 +5,7 @@ env:
     IMAGE_REPO_NAME: "devops-blacklist"
     IMAGE_TAG: "latest"
     AWS_DEFAULT_REGION: "us-east-1"
-    ACCOUNT_ID: "039781381219"
+    ACCOUNT_ID: "194356484319"
 
 phases:
   install:
