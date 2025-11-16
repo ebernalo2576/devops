@@ -5,7 +5,9 @@ env:
     IMAGE_REPO_NAME: "devops-blacklist"
     IMAGE_TAG: "latest"
     AWS_DEFAULT_REGION: "us-east-1"
-    ACCOUNT_ID: "039781381219"
+    ACCOUNT_ID: "194356484319"
+    URI: "194356484319.dkr.ecr.us-east-1.amazonaws.com194356484319.dkr.ecr.us-east-1.amazonaws.com"
+    #ecsTaskExecutionRole
 
 phases:
   install:
