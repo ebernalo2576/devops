@@ -1,4 +1,7 @@
 branch-defaults:
+  feature/codepipeline_docker:
+    environment: blacklist-env
+    group_suffix: null
   feature/eb-deploy:
     environment: blacklist-env
     group_suffix: null

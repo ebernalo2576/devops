@@ -52,3 +52,4 @@ artifacts:
     - setup_db.sql
     - models/**/*
     - resources/**/*
+    - .ebextensions/**/*
